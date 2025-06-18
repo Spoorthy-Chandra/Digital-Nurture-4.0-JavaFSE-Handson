@@ -1,0 +1,5 @@
+->Recursion is when a method calls itself to solve smaller instances of a problem.
+->It is useful for problems that can be broken down into smaller subproblems (e.g., factorial, Fibonacci, etc.).
+Example:
+To calculate futureValue(years), we use:
+futureValue(n) = futureValue(n - 1) * (1 + growthRate)
