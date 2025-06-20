@@ -1,0 +1,6 @@
+->Time Complexity:
+T(n) = T(n-1) + O(1) → Time complexity is O(n) (linear).
+
+->Optimization Tip:
+While the recursion here is not deeply nested (and tail recursion can be optimized by the compiler in some languages), 
+we can also write it using iteration or memoization if performance is a concern in more complex scenarios.
