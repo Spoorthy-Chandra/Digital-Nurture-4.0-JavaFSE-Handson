@@ -1,7 +1,0 @@
-Time Complexity:
-Linear Search: O(n) – checks each product one by one
-Binary Search: O(log n) – much faster but requires sorting first
-
-->Use Linear Search for small datasets or unsorted data.
-->Use Binary Search for large datasets that are pre-sorted or can be sorted once.
-->For an e-commerce platform with thousands of products, use binary search with sorted product lists or a proper indexing system (like HashMap or a database index) for fast lookup.
