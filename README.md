@@ -9,41 +9,33 @@ testing, and best practices.
 
 ## 📅 Weekly Curriculum
 
-### ✅ Week 1 – Design Principles & Patterns
-- SOLID Principles
-- Object-Oriented Design
-- Singleton, Factory, Strategy, and other design patterns
+### ✅ Week 1 
+-  Design Principles & Patterns
+-  Data structures and Algorithms
 
-### ✅ Week 2 – PL/SQL & Testing
-- PL/SQL Programming (Procedures, Functions, Triggers)
-- TDD using **JUnit 5** and **Mockito**
-- Logging with **SLF4J**
+### ✅ Week 2 
+- PL/SQL Programming 
+- TDD using JUnit 5 and Mockito
+- Logging with SLF4J
 
-### ✅ Week 3 – Spring Core & JPA
-- **Spring Core** concepts (IOC, Dependency Injection)
-- **Maven** for project management
-- **Spring Data JPA** with Spring Boot
-- Integration with **Hibernate**
+### ✅ Week 3
+- Spring Core and Maven
+- Spring Data JPA with Spring Boot, Hibernate
 
-### ✅ Week 4 – RESTful APIs
-- Building RESTful services using **Spring Boot 3**
-- CRUD Operations
-- JSON serialization and exception handling
 
-### ✅ Week 5 – Microservices
-- Microservices architecture with **Spring Boot 3**
-- Service Discovery, API Gateway
-- Spring Cloud integration
+### ✅ Week 4 
+- Spring REST using Spring Boot 3
 
-### ✅ Week 6 & 7 – Frontend with React
-- React fundamentals: Components, Props, State
-- Routing, Forms, and API integration
-- Project structure and best practices
 
-### ✅ Week 8 – Git & Version Control
-- Git fundamentals: clone, commit, push, pull
-- Branching and merging strategies
-- Collaborating on GitHub
+### ✅ Week 5 
+- Microservices architecture with Spring Boot 3
+
+### ✅ Week 6 & 7
+- React 
+
+### ✅ Week 8 
+- Git 
+
 
 ---
 
@@ -58,7 +50,7 @@ testing, and best practices.
 - SLF4J
 - Git & GitHub
 
----
+
 
 
 
